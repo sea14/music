@@ -1,0 +1,9 @@
+/* Responsive CSS for the Musical Omeka Theme */
+#primary{
+	width: 80%;
+	margin-left: 7.5%;
+	margin-right: 7.5%
+	padding: 5%;
+	//background will be music-sheet-y?
+}
+
